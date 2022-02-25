@@ -1,6 +1,12 @@
 # Docking-3htb
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
+# Cara mengetahui active site dan binding sitenya
+1. Baca artikel proteiinya
+2. Menggunakan aplikasi Uniprot https://www.uniprot.org/
+3. Menggunakan aplikasi Discovery Studio, 
+4. Menggunakan aplikasi server online seperti: ICM-PocketFinder, CASTp, Chimera, Qsite, Scfbio online server
+
 # Using Vina forcefield
 Validasi dengan menggunakan Re-Docking
 

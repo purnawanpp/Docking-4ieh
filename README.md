@@ -42,6 +42,7 @@ Validasi dengan menggunakan Re-Docking
 2. Catat npts 41 40 40 sebagai size x, y, z
 3. Catat gridcenter -0.004 -0.187 0.078 sebagai center x, y, z
 4. Buat file grid.txt didalamnya tertulis :
+
 center_x = -0.004
 center_y = -0.187
 center_z = 0.078

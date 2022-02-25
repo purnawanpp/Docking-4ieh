@@ -47,6 +47,14 @@ size_z = 40
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
+# Perhitungan nilai RMSD (Menggunakan Biovia Discovery Studio)
+1. Buka file 4ieh_ligand.pdbqt
+2. Drag file 4ieh_ligand_vina_out_ligand_1.pdbqt
+3. Klik File 4ieh_ligand.pdbqt,
+4. Klik Structure-RMSD-Set Reference
+5. Klik File 4ieh_ligand_vina_out_ligand_1.pdbqt
+6. Klik Structure-RMSD-Heavy Atoms
+
 # Optimasi Geometri (Avogadro)
 1. Buka Avogadro
 2. Klik File-open-ligand/obat dengan format .mol2

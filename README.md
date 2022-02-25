@@ -11,7 +11,7 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 Validasi dengan menggunakan Re-Docking
 
 # Pemisahan ligand dan protein (Menggunakan Biovia Discovery Studio)
-1. Pisahkan Protein, buang air dan liganndya
+1. Pisahkan Protein, buang air dan ligannya
 2. Pisahkan ligand, buang protein, air 
 
 # Preparasi Protein (Menggunakan Autodock Tools)

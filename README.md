@@ -61,6 +61,7 @@ size_z = 40
 4. Klik Structure-RMSD-Set Reference
 5. Klik File 4ieh_ligand_vina_out_ligand_1.pdbqt
 6. Klik Structure-RMSD-Heavy Atoms
+7. Dibagian bawah nanti kelihatan nilai RMSDnya, nilai RMSD yang disarankan adalah <2
 
 # Optimasi Geometri (Avogadro)
 1. Buka Avogadro

@@ -42,13 +42,12 @@ Validasi dengan menggunakan Re-Docking
 2. Catat npts 41 40 40 sebagai size x, y, z
 3. Catat gridcenter -0.004 -0.187 0.078 sebagai center x, y, z
 4. Buat file grid.txt didalamnya tertulis :
-
-center_x = -0.004
+#center_x = -0.004
 center_y = -0.187
 center_z = 0.078
 size_x = 40
 size_y = 40
-size_z = 40
+size_z = 40#
 
 # Prosedur Docking (Menggunakan Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt

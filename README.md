@@ -32,8 +32,8 @@ Validasi dengan menggunakan Re-Docking
 8. ligand-output-save as ligand.pdbqt
 
 # Perintah di terminal untuk mengetahui Grid Box menggunakan Autogrid
-python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
-autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
+1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
+2. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
 
 # Buat File GridBoxnya
 1. Buka file dengan 4ieh_protein.gpf

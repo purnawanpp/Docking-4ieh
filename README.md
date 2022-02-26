@@ -1,6 +1,15 @@
 # Docking-3htb Using Vina forcefield
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
+# Perangkat lunak yang dibutuhkan 
+1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe
+2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
+3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
+4. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
+5. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
+6. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download
+7. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+
 # Cara mengetahui active site dan binding sitenya
 1. Baca artikel proteinnya
 2. Menggunakan aplikasi Uniprot https://www.uniprot.org/

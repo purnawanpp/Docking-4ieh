@@ -7,7 +7,7 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
 4. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
 5. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
-6. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download
+6. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf
 7. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
 # Cara mengetahui active site dan binding sitenya

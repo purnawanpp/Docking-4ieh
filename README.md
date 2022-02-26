@@ -1,7 +1,7 @@
 # Docking-3htb Using Vina forcefield
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
-# Perangkat lunak yang dibutuhkan https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
+# Perangkat lunak yang dibutuhkan 
 1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe
 2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
@@ -9,6 +9,9 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 5. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
 6. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf
 7. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+
+# Rekapan Semua Perangkat lunak 
+1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
 
 # Pengaturan Path
 1. Buka path, pada kolom search ketik path

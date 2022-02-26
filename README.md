@@ -10,6 +10,14 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 6. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf
 7. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
+# Pengaturan Path
+1. Buka path, pada kolom search ketik path
+2. Klik Enviromental Variabel
+3. Klik Path Edit
+4. Klik New, masukkan lokasi file atau folder pada path
+5. Klik Ok sampai semua jendela tertutup (3 kali klik ok)
+6. Yang harus dimasukaan dalam path ada 3 yaitu 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin dan folder letak 3. vina.exe
+
 # Cara mengetahui active site dan binding sitenya
 1. Baca artikel proteinnya
 2. Menggunakan aplikasi Uniprot https://www.uniprot.org/

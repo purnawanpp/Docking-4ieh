@@ -1,7 +1,7 @@
 # Docking-3htb Using Vina forcefield
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
-# Perangkat lunak yang dibutuhkan 
+# Perangkat lunak yang dibutuhkan https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
 1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe
 2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/

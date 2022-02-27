@@ -1,4 +1,4 @@
-# Docking-3htb Using Vina forcefield
+# Docking-3htb Using Vina forcefield (Bahasa Indonesia)
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
 # Perangkat lunak yang dibutuhkan 
@@ -86,3 +86,92 @@ size_z = 40
 3. Klik Extension-Molecular Mecahanics-Setup Force Field
 4. Pilih setup Force-Field pilih UFF 
 5. Klik Extension-Pilih-Optimize Geometry
+
+# Docking-3htb Using Vina forcefield (English Version)
+Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
+
+# Required software
+1. Vina.exe (Version 1.2.3) download here https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe change the name to vina.exe
+2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
+3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
+4. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+5. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
+6. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
+7. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download how to install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/6346b21b7ee/6346b21b Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf
+
+# All Software Recap
+1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
+
+# Path Settings
+1. Open the path, in the search field type path
+2. Click Environmental Variables
+3. Click Path Edit
+4. Click New, enter the location of the file or folder in the path
+5. Click Ok until all windows are closed (3 times click ok)
+6. There are 3 things that must be entered in the path, namely 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder 3. vina. exe
+
+# How to find out the active site and its binding site
+1. Read the protein article
+2. Using the Uniprot app https://www.uniprot.org/
+3. Using the Discovery Studio application,
+4. Using online server applications such as: ICM-PocketFinder, CASTp, Chimera, Qsite, Scfbio online server
+
+# Separation of ligands and proteins (Using Biovia Discovery Studio)
+1. Separate the Protein, remove the water and the ligand
+2. Separate ligands, remove protein, water
+
+# Protein Preparation (Using Autodock Tools)
+1. Separate water and ligands first using Biovia Discovery Studio
+2. Click File Read Molecules look for protein.pdb
+3. Added Hydrogen with Edit-Add Hydrogen-All
+4. Edit add gasteiger payload
+5. Edit-Hydrogen Merge Non Polar
+6. Grid-Macromolecules-Choose
+7. save protein.pdbqt
+
+# Ligand Preparation (Using Autodock Tools)
+1. Click File Read Molecules, look for ligand.pdb
+2. Added Hydrogen with Edit-Add Hydrogen-All
+3. Edit add gasteiger payload
+4. Edit-Hydrogen Merge Non Polar
+5. Ligand-Input-choose
+6. Select ligand.pdb
+7. ligand-Toorsion tree-detect root
+8. ligand-output-save as ligand.pdbqt
+
+# Command in terminal to find out Grid Box using Autogrid (Using Terminal)
+1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
+2. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
+
+# Create the GridBox File (Using Notepad)
+1. Open the file with 4ieh_protein.gpf
+2. Record npts 41 40 40 as size x, y, z
+3. Record gridcenter -0.004 -0.187 0.078 as center x, y, z
+4. Create a grid.txt file in it that says:
+center_x = -0.004
+center_y = -0.187
+center_z = 0.078
+size_x = 40
+size_y = 40
+size_z = 40
+5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-3htb/blob/main/grid.txt
+
+# Docking Procedure (Using Terminal)
+1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
+2. vina_split --input 4ieh_ligand_vina_out.pdbqt
+
+# Calculation of RMSD value (Using Biovia Discovery Studio)
+1. Open the file 4ieh_ligand.pdbqt
+2. Drag the file 4ieh_ligand_vina_out_ligand_1.pdbqt
+3. Click File 4ieh_ligand.pdbqt,
+4. Click Structure-RMSD-Set Reference
+5. Click File 4ieh_ligand_vina_out_ligand_1.pdbqt
+6. Click Structure-RMSD-Heavy Atoms
+7. At the bottom you will see the RMSD value, the recommended RMSD value is <2
+
+# Geometry Optimization (Avogadro)
+1. Open Avogadro
+2. Click File-open-ligand/medicine with .mol2 . format
+3. Click Extension-Molecular Mechanics-Setup Force Field
+4. Select the Force-Field setup, select UFF
+5. Click Extension-Select-Optimize Geometry

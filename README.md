@@ -86,6 +86,7 @@ size_z = 40
 3. Klik Extension-Molecular Mecahanics-Setup Force Field
 4. Pilih setup Force-Field pilih UFF 
 5. Klik Extension-Pilih-Optimize Geometry
+6. clik Save as, save format .mol2 file
 
 # Docking-3htb Using Vina forcefield (English Version)
 Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
@@ -175,3 +176,4 @@ size_z = 40
 3. Click Extension-Molecular Mechanics-Setup Force Field
 4. Select the Force-Field setup, select UFF
 5. Click Extension-Select-Optimize Geometry
+6. Clik Save as, save format .mol2 file

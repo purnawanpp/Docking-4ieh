@@ -124,7 +124,7 @@ Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 1. Separate water and ligands first using Biovia Discovery Studio
 2. Click File Read Molecules look for protein.pdb
 3. Added Hydrogen with Edit-Add Hydrogen-All
-4. Edit add gasteiger payload
+4. Edit add gasteiger charge
 5. Edit-Hydrogen Merge Non Polar
 6. Grid-Macromolecules-Choose
 7. save protein.pdbqt
@@ -132,7 +132,7 @@ Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 # Ligand Preparation (Using Autodock Tools)
 1. Click File Read Molecules, look for ligand.pdb
 2. Added Hydrogen with Edit-Add Hydrogen-All
-3. Edit add gasteiger payload
+3. Edit add gasteiger charge
 4. Edit-Hydrogen Merge Non Polar
 5. Ligand-Input-choose
 6. Select ligand.pdb

@@ -1,4 +1,4 @@
-# Docking-3htb Using Vina forcefield (Bahasa Indonesia and English Version)
+# Docking-4ieh Using Vina forcefield (Bahasa Indonesia and English Version)
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
 # Perangkat lunak yang dibutuhkan 
@@ -65,7 +65,7 @@ center_z = 0.078
 size_x = 40
 size_y = 40
 size_z = 40
-5. Contoh file grid.txt dapat dilihat disini https://github.com/purnawanpp/Docking-3htb/blob/main/grid.txt
+5. Contoh file grid.txt dapat dilihat disini https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
 # Prosedur Docking (Menggunakan Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
@@ -88,7 +88,7 @@ size_z = 40
 5. Klik Extension-Pilih-Optimize Geometry
 6. clik Save as, save format .mol2 file
 
-# Docking-3htb Using Vina forcefield (English Version)
+# Docking-4ieh Using Vina forcefield (English Version)
 Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 
 # Required software
@@ -155,7 +155,7 @@ center_z = 0.078
 size_x = 40
 size_y = 40
 size_z = 40
-5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-3htb/blob/main/grid.txt
+5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
 # Docking Procedure (Using Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt

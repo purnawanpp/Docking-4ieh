@@ -100,7 +100,7 @@ Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 5. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
 6. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
 7. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download how to install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/6346b21b7ee/6346b21b Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf
-8. 8. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe
+8. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe
 
 # All Software Recap
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing

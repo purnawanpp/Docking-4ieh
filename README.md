@@ -20,7 +20,7 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 3. Klik Path Edit
 4. Klik New, masukkan lokasi file atau folder pada path
 5. Klik Ok sampai semua jendela tertutup (3 kali klik ok)
-6. Yang harus dimasukaan dalam path ada 3 yaitu 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin dan folder letak 3. vina.exe
+6. Yang harus dimasukaan dalam path ada 4 yaitu 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin dan folder letak 3. vina.exe 4. vina_split.exe
 
 # Cara mengetahui active site dan binding sitenya
 1. Baca artikel proteinnya
@@ -111,7 +111,7 @@ Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 3. Click Path Edit
 4. Click New, enter the location of the file or folder in the path
 5. Click Ok until all windows are closed (3 times click ok)
-6. There are 3 things that must be entered in the path, namely 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder 3. vina. exe
+6. There are 4 things that must be entered in the path, namely 1. C:\Program Files (x86)\MGLTools-1.5.7, 2. C:\Program Files (x86)\ADFRsuite-1.0\bin and the location folder 3. vina. exe 4. vina_split.exe
 
 # How to find out the active site and its binding site
 1. Read the protein article

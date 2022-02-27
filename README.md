@@ -24,7 +24,7 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
 # Cara mengetahui active site dan binding sitenya
 1. Baca artikel proteinnya
-2. Menggunakan aplikasi Uniprot https://www.uniprot.org/
+2. Menggunakan web Uniprot https://www.uniprot.org/
 3. Menggunakan aplikasi Discovery Studio, 
 4. Menggunakan aplikasi server online seperti: ICM-PocketFinder, CASTp, Chimera, Qsite, Scfbio online server
 
@@ -115,7 +115,7 @@ Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
 
 # How to find out the active site and its binding site
 1. Read the protein article
-2. Using the Uniprot app https://www.uniprot.org/
+2. Using the Uniprot website https://www.uniprot.org/
 3. Using the Discovery Studio application,
 4. Using online server applications such as: ICM-PocketFinder, CASTp, Chimera, Qsite, Scfbio online server
 

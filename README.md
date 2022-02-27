@@ -1,4 +1,4 @@
-# Docking-3htb Using Vina forcefield (Bahasa Indonesia)
+# Docking-3htb Using Vina forcefield (Bahasa Indonesia and English Version)
 Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 
 # Perangkat lunak yang dibutuhkan 

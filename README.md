@@ -9,6 +9,7 @@ Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
 5. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
 6. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
 7. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf 
+8. Vina_Split 
 
 # Rekapan Semua Perangkat lunak 
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing

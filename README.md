@@ -1,5 +1,5 @@
 # Docking-4ieh Using Vina forcefield (Bahasa Indonesia and English Version)
-Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021) Video Tutorial dapat dilihat dilink berikut:
+Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021) Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   
 

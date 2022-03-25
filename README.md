@@ -1,5 +1,7 @@
 # Docking-4ieh Using Vina forcefield (Bahasa Indonesia and English Version)
-Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021)
+Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (2021) Video Tutorial dapat dilihat dilink berikut:
+1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
+2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   
 
 # Perangkat lunak yang dibutuhkan 
 1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe

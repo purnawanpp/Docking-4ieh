@@ -1,4 +1,5 @@
-# Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (Version 2021). Docking-4ieh Using Vina forcefield (Bahasa Indonesia and English Version)
+# Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (Version 2021). 
+Docking Tutorial Using Autodock Vina version (Bahasa Indonesia and English Version)
 Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   
@@ -94,8 +95,10 @@ size_z = 40
 5. Klik Extension-Pilih-Optimize Geometry
 6. clik Save as, save format .mol2 file
 
-# Docking-4ieh Using Vina forcefield (English Version)
-Docking Tutorial Using Autodock Vina version 1.2.3 (2021)
+# Docking Tutorial Using Autodock Vina version 1.2.3 (2021 (English Version)
+Video tutorials can be seen at the following link:
+1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
+2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
 
 # Required software
 1. Vina.exe (Version 1.2.3) download here https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe change the name to vina.exe

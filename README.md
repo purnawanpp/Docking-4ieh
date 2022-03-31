@@ -87,7 +87,7 @@ size_z = 40
 6. Klik Structure-RMSD-Heavy Atoms
 7. Dibagian bawah nanti kelihatan nilai RMSDnya, nilai RMSD yang disarankan adalah <2
 
-# Perhitungan nilai RMSD (Menggunakan Terminal OpenBabel ver 3.1)
+# Perhitungan nilai RMSD (Menggunakan Terminal Linux dan OpenBabel ver 3.1)
 1. Ketik diterminal : conda activate
 2. Jalankan perintah diterminal: obrms -f 4ieh_ligand.pdbqt 4ieh_ligand_vina_out.pdbqt
 

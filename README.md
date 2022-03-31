@@ -87,6 +87,10 @@ size_z = 40
 6. Klik Structure-RMSD-Heavy Atoms
 7. Dibagian bawah nanti kelihatan nilai RMSDnya, nilai RMSD yang disarankan adalah <2
 
+# Perhitungan nilai RMSD (Menggunakan Terminal OpenBabel Versi 3)
+1. Ketik diterminal : conda activate
+2. Jalankan perintah diterminal: obrms -f 4ieh_ligand.pdbqt 4ieh_ligand_vina_out.pdbqt
+
 # Optimasi Geometri (Avogadro)
 1. Buka Avogadro
 2. Klik File-open-ligand/obat dengan format .mol2

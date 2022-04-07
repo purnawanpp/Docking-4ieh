@@ -90,6 +90,7 @@ size_z = 40
 # Perhitungan nilai RMSD (Menggunakan Terminal Linux dan OpenBabel ver 3.1)
 1. Ketik diterminal : conda activate
 2. Jalankan perintah diterminal: obrms -f 4ieh_ligand.pdbqt 4ieh_ligand_vina_out.pdbqt
+3. Ubah file pdbqt menjadi pdb: obabel 4ieh_vina_out_ligand_1.pdbqt -O ligand1.pdb
 
 # Optimasi Geometri (Avogadro)
 1. Buka Avogadro

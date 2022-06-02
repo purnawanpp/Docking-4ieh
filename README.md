@@ -4,6 +4,9 @@ Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   
 
+# Semua file Installer docking 
+1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
+
 # Perangkat lunak yang dibutuhkan 
 1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe
 2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
@@ -13,9 +16,6 @@ Video Tutorial dapat dilihat di link berikut:
 6. Avogadro (Version 1.2) https://drive.google.com/file/d/10Pw-jgnLFfNDVKT102m_w15099lUiSYI/view?usp=sharing
 7. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
 8. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf 
-
-# Semua file Installer docking 
-1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
 
 # Pengaturan Path
 1. Buka path, pada kolom search ketik path

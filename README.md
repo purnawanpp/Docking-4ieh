@@ -4,7 +4,7 @@ Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   
 
-# Semua file Installer docking 
+# Semua file Perangkat lunak yang dibutuhkan download disini
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
 
 # Perangkat lunak yang dibutuhkan 

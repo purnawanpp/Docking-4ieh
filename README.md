@@ -15,7 +15,7 @@ Video Tutorial dapat dilihat di link berikut:
 5. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 6. Avogadro (Version 1.2) https://drive.google.com/file/d/10Pw-jgnLFfNDVKT102m_w15099lUiSYI/view?usp=sharing
 7. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
-8. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf 
+8. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
 
 # Pengaturan Path
 1. Buka path, pada kolom search ketik path

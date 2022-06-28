@@ -40,22 +40,22 @@ Video Tutorial dapat dilihat di link berikut:
 
 # Preparasi Protein (Menggunakan Autodock Tools)
 1. Dipisahkan air dan ligannya terlebih dahulu menggunakan Biovia Discovery Studio
-2. Klik File Read Molecules cari protein.pdb
+2. Klik File Read Molecules cari protein dengan format .pdb
 3. Dilakukan penambahan Hidrogen dengan Edit-Add Hidrogen-All
 4. Edit tambahkan muatan gasteiger
 5. Edit-Hidrogen Merge Non Polar
 6. Grid-Macromolecules-Choose
-7. save protein.pdbqt
+7. save protein dengan nama 4ieh_protein.pdbqt
 
 # Preparasi Ligand (Menggunakan Autodock Tools)
-1. Klik File Read Molecules cari ligand.pdb
+1. Klik File Read Molecules cari ligand dengan format .pdb
 2. Dilakukan penambahan Hidrogen dengan Edit-Add Hidrogen-All
 3. Edit tambahkan muatan gasteiger
 4. Edit-Hidrogen Merge Non Polar
 5. Ligand-Input-choose
 6. Pilih ligand.pdb
 7. ligand-Toorsion tree-detect root
-8. ligand-output-save as ligand.pdbqt
+8. ligand-output-save as dengan nama 4ieh_ligand.pdbqt
 
 # Perintah di terminal untuk mengetahui Grid Box menggunakan Autogrid (Menggunakan Terminal)
 1. Pastikan file prepare_gpf.py sudah ada difolder kerja, file ini bisa didownload menggunakan https://downgit.github.io/#/home dengan cara copy alamat ini https://github.com/purnawanpp/Docking-4ieh/blob/main/prepare_gpf.py ke website tersebut, lalu klik download 

@@ -58,8 +58,9 @@ Video Tutorial dapat dilihat di link berikut:
 8. ligand-output-save as ligand.pdbqt
 
 # Perintah di terminal untuk mengetahui Grid Box menggunakan Autogrid (Menggunakan Terminal)
-1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
-2. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
+1. Pastikan file prepare_gpf.py sudah ada difolder kerja, file ini bisa didownload menggunakan https://downgit.github.io/#/home dengan cara copy alamat ini ke website tersebut, lalu download https://github.com/purnawanpp/Docking-4ieh/blob/main/prepare_gpf.py
+2. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
+3. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
 
 # Buat File GridBoxnya (Mengunakan Notepad) 
 1. Buka file dengan 4ieh_protein.gpf

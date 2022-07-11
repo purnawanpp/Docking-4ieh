@@ -1,4 +1,4 @@
-# Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (Version 2021). 
+# Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 (Version 2021) dan AutoDock-GPU Versi 1.5.3. 
 Docking Tutorial Using Autodock Vina version (Bahasa Indonesia and English Version)
 Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
@@ -79,10 +79,10 @@ size_z = 40
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
-# Prosedur Docking Menggunakan Autodock GPU
+# Prosedur Docking Menggunakan AutoDock-GPU
 1. Upload semua file hasil preparasi
 2. Jalankan dan buka file script berikut di google colab: https://github.com/purnawanpp/Docking-4ieh/blob/main/Autodock_GPU.ipynb
-3. Download file format .dlg dan buka di Autodock Tools 1.5.6
+3. Download file format .dlg dan buka menggunakan Notepad++, cari energi minimal dengan perintah run =
 
 # Perhitungan nilai RMSD (Menggunakan Biovia Discovery Studio)
 1. Buka file 4ieh_ligand.pdbqt

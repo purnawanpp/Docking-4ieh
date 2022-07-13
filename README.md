@@ -35,7 +35,7 @@ Video Tutorial dapat dilihat di link berikut:
 4. Menggunakan aplikasi server online seperti: ICM-PocketFinder, CASTp, Chimera, Qsite, Scfbio online server
 
 # Pemisahan ligand dan protein (Menggunakan Biovia Discovery Studio)
-1. Pisahkan Protein, buang air dan ligannya
+1. Pisahkan reseptor, buang air dan ligannya
 2. Pisahkan ligand, buang protein, air 
 
 # Preparasi Protein (Menggunakan Autodock Tools)

@@ -75,11 +75,11 @@ size_y = 40
 size_z = 40
 5. Contoh file grid.txt dapat dilihat disini https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
-# Prosedur Docking (Menggunakan Terminal)
+# OPSI 1-Prosedur Docking Autodock Vina (Menggunakan Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
-# Prosedur Docking Menggunakan AutoDock-GPU
+# OPSI 2-Prosedur Docking Menggunakan AutoDock-GPU
 1. Upload semua file hasil preparasi
 2. Jalankan dan buka file script berikut di google colab: https://github.com/purnawanpp/Docking-4ieh/blob/main/Autodock_GPU.ipynb
 3. Download file format .dlg dan buka menggunakan Notepad++, cari energi minimal dengan perintah run =

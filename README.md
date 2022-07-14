@@ -80,7 +80,8 @@ size_z = 40
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
 # OPSI 2-Prosedur Docking Menggunakan AutoDock-GPU
-1. Upload semua file hasil preparasi
+1. Video tutorial ada disini: https://youtu.be/KotAUEJTDAY
+2. Upload semua file hasil preparasi
 2. Jalankan dan buka file script berikut di google colab: https://github.com/purnawanpp/Docking-4ieh/blob/main/Autodock_GPU.ipynb
 3. Download file format .dlg dan buka menggunakan Notepad++, cari energi minimal dengan perintah run =
 

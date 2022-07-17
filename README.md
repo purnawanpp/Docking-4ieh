@@ -13,7 +13,7 @@ Video Tutorial dapat dilihat di link berikut:
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
 4. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe
 5. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-6. Avogadro (Version 1.2) https://drive.google.com/file/d/10Pw-jgnLFfNDVKT102m_w15099lUiSYI/view?usp=sharing
+6. Avogadro (Version 1.2) https://drive.google.com/file/d/1DzRjlV0pYcBXxgXDfhlkOl55sLogvPEB/view?usp=sharing
 7. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
 8. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing
 

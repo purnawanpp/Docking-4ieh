@@ -183,11 +183,11 @@ size_y = 40
 size_z = 40
 5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
-# Docking Procedure using Vina 1.2.4 (Using Terminal)
+# Option 1-Docking Procedure using Vina version 1.2.4 (Using Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
-# Docking Procudere using Autodock-GPU
+# Option 2-Docking Procedure using Autodock-GPU version 1.5.3 (Using terminal)
 1. Video tutorial is here: https://youtu.be/KotAUEJTDAY
 2. Upload all the prepared files
 2. Run and open the following script file on google colab: https://github.com/purnawanpp/Docking-4ieh/blob/main/Autodock_GPU.ipynb

@@ -183,9 +183,15 @@ size_y = 40
 size_z = 40
 5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
-# Docking Procedure (Using Terminal)
+# Docking Procedure using Vina 1.2.4 (Using Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
+
+# Docking Procudere using Autodock-GPU
+1. Video tutorial is here: https://youtu.be/KotAUEJTDAY
+2. Upload all the prepared files
+2. Run and open the following script file on google colab: https://github.com/purnawanpp/Docking-4ieh/blob/main/Autodock_GPU.ipynb
+3. Download the .dlg format file and open it using Notepad++, find minimal energy with the command run =
 
 # Calculation of RMSD value (Using Biovia Discovery Studio)
 1. Open the file 4ieh_ligand.pdbqt

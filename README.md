@@ -107,7 +107,7 @@ size_z = 40
 5. Klik Extension-Pilih-Optimize Geometry
 6. clik Save as, save format .mol2 file
 
-# Docking Tutorial Using Autodock Vina version 1.2.3 (2021 (English Version)
+# Docking Tutorial Using Autodock Vina version and AutoDock-GPU (English Version)
 Video tutorials can be seen at the following link:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE

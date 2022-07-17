@@ -107,7 +107,7 @@ size_z = 40
 5. Klik Extension-Pilih-Optimize Geometry
 6. clik Save as, save format .mol2 file
 
-# Docking Tutorial Using Autodock Vina version and AutoDock-GPU (English Version)
+# Docking Tutorial Using Autodock Vina and AutoDock-GPU (English Version)
 Video tutorials can be seen at the following link:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
@@ -183,7 +183,7 @@ size_y = 40
 size_z = 40
 5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
 
-# Option 1-Docking Procedure using Vina version 1.2.4 (Using Terminal)
+# Option 1-Docking Procedure using Vina version 1.2.3 (Using Terminal)
 1. vina --receptor 4ieh_protein.pdbqt --ligand 4ieh_ligand.pdbqt --config grid.txt --exhaustiveness=8 --out 4ieh_ligand_vina_out.pdbqt > results.txt
 2. vina_split --input 4ieh_ligand_vina_out.pdbqt
 
@@ -209,3 +209,4 @@ size_z = 40
 4. Select the Force-Field setup, select UFF
 5. Click Extension-Select-Optimize Geometry
 6. Clik Save as, save format .mol2 file
+

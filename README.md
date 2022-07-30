@@ -62,7 +62,7 @@ Video Tutorial dapat dilihat di link berikut:
 2. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
 3. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
 
-# Buat File GridBoxnya (Mengunakan Notepad) 
+# Buat File GridBoxnya (Mengunakan Notepad), GridBox dibuat jika simulasi menggunakan AutoDock Vina
 1. Buka file dengan 4ieh_protein.gpf
 2. Catat npts 41 40 40 sebagai size x, y, z
 3. Catat gridcenter -0.004 -0.187 0.078 sebagai center x, y, z

@@ -170,7 +170,7 @@ Video tutorials can be seen at the following link:
 1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
 2. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
 
-# Create the GridBox File (Using Notepad)
+# Create the GridBox File (Using Notepad), this preparation for using Autodock Vina
 1. Open the file with 4ieh_protein.gpf
 2. Record npts 41 40 40 as size x, y, z
 3. Record gridcenter -0.004 -0.187 0.078 as center x, y, z

@@ -1,7 +1,7 @@
 # Docking Tutorial Using Autodock Vina Version 1.2.3 and AutoDock-GPU Version 1.5.3.
 Video tutorials can be seen at the following link:
-1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
-2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
+1. Using Autodock Vina: Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s and Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
+2. Using AutoDock-GPU https://youtu.be/KotAUEJTDAY
 
 # Required software
 1. Vina.exe (Version 1.2.3) download here https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe change the name to vina.exe

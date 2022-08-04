@@ -57,7 +57,7 @@ Video Tutorial dapat dilihat di link berikut:
 7. ligand-Toorsion tree-detect root
 8. Klik Ligand-Torsion Tree-Choose Torsions, Klik Done
 9. Klik Ligand-Torsion Tree-Set Number of Torsions Pilih fewest atom, selanjutnya klik Dismiss
-10.Klik ligand-output-save as dengan nama 4ieh_ligand.pdbqt
+10. Klik ligand-output-save as dengan nama 4ieh_ligand.pdbqt
 
 # Perintah di terminal untuk mengetahui Grid Box menggunakan Autogrid (Menggunakan Terminal)
 1. Pastikan file prepare_gpf.py sudah ada difolder kerja, file ini bisa didownload menggunakan https://downgit.github.io/#/home dengan cara copy alamat ini https://github.com/purnawanpp/Docking-4ieh/blob/main/prepare_gpf.py ke website tersebut, lalu klik download 
@@ -166,9 +166,9 @@ Video tutorials can be seen at the following link:
 5. Ligand-Input-choose
 6. Select ligand.pdb
 7. ligand-Toorsion tree-detect root
-8. Click Ligand-Torsion Tree-Choose Torsions, Klik Done
-9. Select Ligand-Torsion Tree-Set Number of Torsions Pilih fewest atom, selanjutnya klik Dismiss
-9. Select Ligand-output-save as ligand.pdbqt
+8. Click Ligand-Torsion Tree-Choose Torsions, Select Done
+9. Select Ligand-Torsion Tree-Set Number of Torsions select fewest atom, and Dismiss
+10. Select Ligand-output-save as ligand.pdbqt
 
 # Command in terminal to find out Grid Box using Autogrid (Using Terminal)
 1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y

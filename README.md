@@ -159,14 +159,16 @@ Video tutorials can be seen at the following link:
 7. save protein.pdbqt
 
 # Ligand Preparation (Using Autodock Tools)
-1. Click File Read Molecules, look for ligand.pdb
+1. Select File Read Molecules, look for ligand.pdb
 2. Added Hydrogen with Edit-Add Hydrogen-All
 3. Edit add gasteiger charge
 4. Edit-Hydrogen Merge Non Polar
 5. Ligand-Input-choose
 6. Select ligand.pdb
 7. ligand-Toorsion tree-detect root
-8. ligand-output-save as ligand.pdbqt
+8. Click Ligand-Torsion Tree-Choose Torsions, Klik Done
+9. Select Ligand-Torsion Tree-Set Number of Torsions Pilih fewest atom, selanjutnya klik Dismiss
+9. Select Ligand-output-save as ligand.pdbqt
 
 # Command in terminal to find out Grid Box using Autogrid (Using Terminal)
 1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y

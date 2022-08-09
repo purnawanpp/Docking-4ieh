@@ -1,4 +1,4 @@
-# Tutorial Docking Menggunakan Autodock Vina versi 1.2.3 dan AutoDock-GPU Versi 1.5.3. 
+# Docking Tutorial Using Autodock Vina version 1.2.3 (2021) and AutoDock-GPU Version 1.5.3
 Video tutorials can be seen at the following link:
 1. Using Autodock Vina: Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s and Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
 2. Using AutoDock-GPU https://youtu.be/KotAUEJTDAY

@@ -95,7 +95,7 @@ size_z = 40
 6. Click Structure-RMSD-Heavy Atoms
 7. At the bottom you will see the RMSD value, the recommended RMSD value is <2
 
-# Docking Tutorial Using Autodock Vina version (Bahasa Indonesia and English Version)
+# Docking Tutorial Penggunaan Autodock Vina dan AutoDock-GPU (Bahasa Indonesia)
 Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
 2. Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE   

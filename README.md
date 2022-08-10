@@ -1,6 +1,6 @@
 # Docking Tutorial Using Autodock Vina version 1.2.3 (2021) and AutoDock-GPU Version 1.5.3
 Video tutorials can be seen at the following link:
-1. Using Autodock Vina: Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s and Part 2: https://www.youtube.com/watch?v=5D89mIQpsHE
+1. Using Autodock Vina: Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s and Part 2: https://youtu.be/pHpAyt8S96o
 2. Using AutoDock-GPU https://youtu.be/KotAUEJTDAY
 
 # Required software
@@ -97,8 +97,8 @@ size_z = 40
 
 # Docking Tutorial Penggunaan Autodock Vina dan AutoDock-GPU (Bahasa Indonesia)
 Video Tutorial dapat dilihat di link berikut:
-1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s
-2.   
+1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s dan Part 2: https://youtu.be/pHpAyt8S96o
+2. Penggunaan AutoDock-GPU https://youtu.be/KotAUEJTDAY
 
 # Semua file Perangkat lunak yang dibutuhkan download disini
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing

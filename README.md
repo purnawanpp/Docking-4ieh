@@ -201,7 +201,7 @@ size_z = 40
 1. Buka Avogadro
 2. Klik File-open-ligand/obat dengan format .mol2
 3. Klik Extension-Molecular Mecahanics-Setup Force Field
-4. Pilih setup Force-Field pilih UFF 
+4. Pilih setup Force-Field pilih MMFF94 
 5. Klik Extension-Pilih-Optimize Geometry
 6. clik Save as, save format .mol2 file
 

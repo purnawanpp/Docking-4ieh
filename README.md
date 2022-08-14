@@ -65,13 +65,13 @@ Video tutorials can be seen at the following link:
 
 # Create the GridBox File (Using Notepad), this preparation for using Autodock Vina
 1. Open the file with 4ieh_protein.gpf
-2. Record npts 41 40 40 as size x, y, z
+2. Record npts 50 40 40 as size x, y, z
 3. Record gridcenter -0.004 -0.187 0.078 as center x, y, z
 4. Create a grid.txt file in it that says:
 center_x = -0.004
 center_y = -0.187
 center_z = 0.078
-size_x = 40
+size_x = 50
 size_y = 40
 size_z = 40
 5. An example of a grid.txt file can be seen here https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt
@@ -162,13 +162,13 @@ Video Tutorial dapat dilihat di link berikut:
 
 # Buat File GridBoxnya (Mengunakan Notepad), GridBox dibuat jika simulasi menggunakan AutoDock Vina
 1. Buka file dengan 4ieh_protein.gpf
-2. Catat npts 41 40 40 sebagai size x, y, z
+2. Catat npts 50 40 40 sebagai size x, y, z
 3. Catat gridcenter -0.004 -0.187 0.078 sebagai center x, y, z
 4. Buat file grid.txt didalamnya tertulis: 
 center_x = -0.004
 center_y = -0.187
 center_z = 0.078
-size_x = 40
+size_x = 50
 size_y = 40
 size_z = 40
 5. Contoh file grid.txt dapat dilihat disini https://github.com/purnawanpp/Docking-4ieh/blob/main/grid.txt

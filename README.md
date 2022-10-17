@@ -4,14 +4,14 @@ Video tutorials can be seen at the following link:
 2. Using AutoDock-GPU https://youtu.be/KotAUEJTDAY
 
 # Required software
-1. Vina.exe (Version 1.2.3) download here https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe change the name to vina.exe
+1. Vina.exe (Version 1.2.3) download here https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe change the name to vina.exe or https://drive.google.com/file/d/1DBAsOPNDttz1ktoONc-EsCFT3IWHFjbj/view?usp=sharing
 2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
 4. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe
 5. Windows terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 6. Avogadro (Version 1.2) https://sourceforge.net/projects/avogadro/files/latest/download
 7. Discovery Studio (Version 2022) https://discover.3ds.com/discovery-studio-visualizer-download
-8. Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download how to install Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf  
+8. Marvin Sketch https://drive.google.com/file/d/18WN28mtb_ayVKFc09CgDaI5VBJVdESm9/view?usp=sharing or website https://chemaxon.com/products/marvin/download how to install Marvin Sketch (Version 2022) https://chemaxon.com/products/marvin/download cara install marvin sketch https://www.researchgate.net/profile/Purnawan-Pontana-Putra/publication/356913436_Tutorial_Installing_Marvin_Sketch_Software_and_Using_SWISS_ADME/links/61b2b2ee590a0b7ed6346b1a/Tutorial-Installing-Marvin-Sketch-Software-and-Using-SWISS-ADME.pdf  
 
 # All Software Recap
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
@@ -104,7 +104,7 @@ Video Tutorial dapat dilihat di link berikut:
 1. https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE?usp=sharing
 
 # Perangkat lunak yang dibutuhkan 
-1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe
+1. Vina.exe (Version 1.2.3) download disini https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.3/vina_1.2.3_windows_x86_64.exe, vina_1.2.3_windows_x86_64.exe ubah namanya menjadi vina.exe atau download dari link berikut: https://drive.google.com/file/d/1DBAsOPNDttz1ktoONc-EsCFT3IWHFjbj/view?usp=sharing
 2. ADFR Tools (Version 1.2) https://ccsb.scripps.edu/adfr/download/1067/
 3. Mgl Tools (Version 1.5.7) https://ccsb.scripps.edu/download/262/
 4. Vina_Split https://github.com/purnawanpp/Docking-4ieh/blob/main/vina_split.exe

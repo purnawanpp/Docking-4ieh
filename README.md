@@ -60,7 +60,7 @@ Video tutorials can be seen at the following link:
 10. Select Ligand-output-save as ligand.pdbqt
 
 # Command in terminal to find out Grid Box using Autogrid (Using Terminal)
-1. python.exe prepare_gpf.py -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
+1. python.exe [prepare-gpf.py](https://github.com/purnawanpp/Docking-4ieh/blob/main/prepare_gpf.py) -l 4ieh_ligand.pdbqt -r 4ieh_protein.pdbqt -y
 2. autogrid4 -p 4ieh_protein.gpf -l 4ieh_protein.glg
 
 # Create the GridBox File (Using Notepad), this preparation for using Autodock Vina

@@ -95,6 +95,10 @@ size_z = 40
 6. Click Structure-RMSD-Heavy Atoms
 7. At the bottom you will see the RMSD value, the recommended RMSD value is <2
 
+# additional option prepare protein and ligand using adfr (using terminal)
+1. Prepare protein: prepare_receptor -r rec.pdb -o rec.pdbqt
+2. Prepare ligand: prepare_ligand -l lig.pdb -o hasil.pdbqt -U nphs_lps
+
 # Docking Tutorial Penggunaan Autodock Vina dan AutoDock-GPU (Bahasa Indonesia)
 Video Tutorial dapat dilihat di link berikut:
 1. Part 1: https://www.youtube.com/watch?v=Xa0SxkDritI&t=614s dan Part 2: https://youtu.be/L4mbxlF7Mnk
